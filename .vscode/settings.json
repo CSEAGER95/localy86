@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+<<<<<<< HEAD
+        "lab4.C": "cpp",
+        "ConditionCodes.C": "cpp",
+        "RegisterFile.C": "cpp",
+        "Memory.C": "cpp",
+        "MemoryTester.C": "cpp"
+=======
+        "ConditionCodes.C": "cpp",
+        "ConditionCodesTester.C": "cpp",
+        "Memory.C": "cpp",
+        "RegisterFile.C": "cpp",
+        "RegisterFileTester.C": "cpp",
+<<<<<<< HEAD
+        "MemoryTester.C": "cpp",
+        "lab4.C": "cpp"
+=======
+        "Tools.C": "cpp"
+>>>>>>> origin/main
+>>>>>>> 572ffb5baef6123386e30c91fcda239a769854d9
+    }
+}
